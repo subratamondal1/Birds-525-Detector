@@ -1,0 +1,3 @@
+fastai
+streamlit
+streamlit-option-menu
